@@ -1,0 +1,15 @@
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\bin\Debug\net6.0\Arbol.exe
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\bin\Debug\net6.0\Arbol.deps.json
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\bin\Debug\net6.0\Arbol.runtimeconfig.json
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\bin\Debug\net6.0\Arbol.dll
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\bin\Debug\net6.0\Arbol.pdb
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\obj\Debug\net6.0\Arbol.csproj.AssemblyReference.cache
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\obj\Debug\net6.0\Arbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\obj\Debug\net6.0\Arbol.AssemblyInfoInputs.cache
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\obj\Debug\net6.0\Arbol.AssemblyInfo.cs
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\obj\Debug\net6.0\Arbol.csproj.CoreCompileInputs.cache
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\obj\Debug\net6.0\Arbol.dll
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\obj\Debug\net6.0\refint\Arbol.dll
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\obj\Debug\net6.0\Arbol.pdb
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\obj\Debug\net6.0\Arbol.genruntimeconfig.cache
+C:\Users\guillermo.betancur\Documents\TestsSiesa\Arbol\Arbol\obj\Debug\net6.0\ref\Arbol.dll
