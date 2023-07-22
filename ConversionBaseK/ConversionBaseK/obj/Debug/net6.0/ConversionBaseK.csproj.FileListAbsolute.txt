@@ -1,0 +1,15 @@
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\bin\Debug\net6.0\ConversionBaseK.exe
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\bin\Debug\net6.0\ConversionBaseK.deps.json
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\bin\Debug\net6.0\ConversionBaseK.runtimeconfig.json
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\bin\Debug\net6.0\ConversionBaseK.dll
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\bin\Debug\net6.0\ConversionBaseK.pdb
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\obj\Debug\net6.0\ConversionBaseK.csproj.AssemblyReference.cache
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\obj\Debug\net6.0\ConversionBaseK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\obj\Debug\net6.0\ConversionBaseK.AssemblyInfoInputs.cache
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\obj\Debug\net6.0\ConversionBaseK.AssemblyInfo.cs
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\obj\Debug\net6.0\ConversionBaseK.csproj.CoreCompileInputs.cache
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\obj\Debug\net6.0\ConversionBaseK.dll
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\obj\Debug\net6.0\refint\ConversionBaseK.dll
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\obj\Debug\net6.0\ConversionBaseK.pdb
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\obj\Debug\net6.0\ConversionBaseK.genruntimeconfig.cache
+C:\Users\guillermo.betancur\Documents\TestsSiesa\ConversionBaseK\ConversionBaseK\obj\Debug\net6.0\ref\ConversionBaseK.dll
