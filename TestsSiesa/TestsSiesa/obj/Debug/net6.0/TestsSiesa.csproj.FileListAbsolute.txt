@@ -1,0 +1,15 @@
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\bin\Debug\net6.0\TestsSiesa.exe
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\bin\Debug\net6.0\TestsSiesa.deps.json
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\bin\Debug\net6.0\TestsSiesa.runtimeconfig.json
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\bin\Debug\net6.0\TestsSiesa.dll
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\bin\Debug\net6.0\TestsSiesa.pdb
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\obj\Debug\net6.0\TestsSiesa.csproj.AssemblyReference.cache
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\obj\Debug\net6.0\TestsSiesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\obj\Debug\net6.0\TestsSiesa.AssemblyInfoInputs.cache
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\obj\Debug\net6.0\TestsSiesa.AssemblyInfo.cs
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\obj\Debug\net6.0\TestsSiesa.csproj.CoreCompileInputs.cache
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\obj\Debug\net6.0\TestsSiesa.dll
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\obj\Debug\net6.0\refint\TestsSiesa.dll
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\obj\Debug\net6.0\TestsSiesa.pdb
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\obj\Debug\net6.0\TestsSiesa.genruntimeconfig.cache
+C:\Users\guillermo.betancur\Documents\TestsSiesa\TestsSiesa\TestsSiesa\obj\Debug\net6.0\ref\TestsSiesa.dll
