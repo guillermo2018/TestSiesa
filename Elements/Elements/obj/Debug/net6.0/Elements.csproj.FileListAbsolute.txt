@@ -1,0 +1,15 @@
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\obj\Debug\net6.0\Elements.csproj.AssemblyReference.cache
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\obj\Debug\net6.0\Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\obj\Debug\net6.0\Elements.AssemblyInfoInputs.cache
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\obj\Debug\net6.0\Elements.AssemblyInfo.cs
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\obj\Debug\net6.0\Elements.csproj.CoreCompileInputs.cache
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\bin\Debug\net6.0\Elements.exe
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\bin\Debug\net6.0\Elements.deps.json
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\bin\Debug\net6.0\Elements.runtimeconfig.json
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\bin\Debug\net6.0\Elements.dll
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\bin\Debug\net6.0\Elements.pdb
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\obj\Debug\net6.0\Elements.dll
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\obj\Debug\net6.0\refint\Elements.dll
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\obj\Debug\net6.0\Elements.pdb
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\obj\Debug\net6.0\Elements.genruntimeconfig.cache
+C:\Users\guillermo.betancur\Documents\TestsOPA\Elements\Elements\obj\Debug\net6.0\ref\Elements.dll
